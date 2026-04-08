@@ -19,3 +19,10 @@ User data is retained only as long as necessary to provide services.
 
 ## Contact
 For privacy questions, contact: olufemiaindero@gmail.com
+
+## Account Deletion
+
+To request deletion of your account and all associated data, 
+send an email to: olufemiaindero@gmail.com with the subject 
+"Delete My SafeZone NG Account" and include your registered 
+phone number. We will process your request within 7 days.
